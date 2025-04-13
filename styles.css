@@ -82,8 +82,7 @@ nav a.active {
 }
 
 /* About Section */
-.about-section
-.about-skills-section{
+.about-section{
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
