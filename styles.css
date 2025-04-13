@@ -117,7 +117,10 @@ section {
 
 /* Skills Section */
 .skills-section {
-  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 40px;
 }
 
 .image-row {
